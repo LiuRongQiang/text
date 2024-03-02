@@ -1,0 +1,6 @@
+import requests
+a='https://music.163.com'
+r=requests.get(a)
+print(r.text)
+windows->Prefetch
+Windows->System32->LogFiles
